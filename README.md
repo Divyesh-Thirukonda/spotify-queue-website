@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+https://chatgpt.com/c/684ce74d-ce6c-8007-91e2-99d08c4c0c6f?model=gpt-4o
+
 ## Getting Started
 
 First, run the development server:
